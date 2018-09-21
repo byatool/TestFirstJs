@@ -10,6 +10,6 @@ All the needed files are here including a step by step photo transmogrograph exc
 
 Jasmine can be found here:
 
-http://pivotal.github.com/jasmine/
+https://jasmine.github.io/
 
 Though all its files are in this repository.
